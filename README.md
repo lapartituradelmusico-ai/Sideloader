@@ -199,5 +199,6 @@ I took 2 years to find a way to overcome the problem that encountered Cydia Impa
 without resorting to reimplementing the full Windows API. I dedicated a lot of work
 on this software (alongside my studies). 
 
+
 That is why I am asking you - if you enjoyed my software and if you can afford it, to 
 give me a small tip via [GitHub Sponsors](https://github.com/sponsors/Dadoum).
